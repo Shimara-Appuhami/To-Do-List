@@ -9,14 +9,15 @@ ul {
 ul li {
     cursor: pointer;
     padding: 12px 8px 12px 40px;
-    font-size: 18px;
+    font-size: 25px;
+    font-family: "Imprint MT Shadow";
 
 }
 .close {
     background-repeat: no-repeat;
     background-position: center;
     float: right;
-    font-size: 30px;
+    font-size: 20px;
 }
 .header {
 
@@ -49,10 +50,13 @@ input {
     text-align: center;
     font-size: 16px;
     cursor: pointer;
+    font-family: "Serif";
+
 
 }
 .title{
     color: black;
+    font-size: 25px;
 
 }
 .sub{
