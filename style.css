@@ -1,7 +1,15 @@
-* {
-    box-sizing: border-box;
-}
+* .title{
+    color: black;
+    font-size: 25px;
 
+}
+.sub{
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 10px;
+
+
+}
 ul {
     margin: 0;
     padding: 0;
@@ -60,15 +68,4 @@ input {
 
 
 }
-.title{
-    color: black;
-    font-size: 25px;
 
-}
-.sub{
-    color: whitesmoke;
-    font-size: 20px;
-    padding: 10px;
-
-
-}
