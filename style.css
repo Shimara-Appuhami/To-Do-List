@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+ul li {
+    cursor: pointer;
+    padding: 12px 8px 12px 40px;
+    font-size: 18px;
+
+}
+.close {
+    background-repeat: no-repeat;
+    background-position: center;
+    float: right;
+    font-size: 30px;
+}
+.header {
+
+    padding: 30px 40px;
+    color: white;
+    text-align: center;
+    background-image: url("images/best-to-do-list-apps-to-stop-forgetting-things.png");
+
+}
+.header:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+input {
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    width: 75%;
+    padding: 10px;
+    float: left;
+    font-size: 16px;
+}
+.addBtn {
+    padding: 9px;
+    width: 20%;
+    background: dodgerblue;
+    color: black;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.title{
+    color: black;
+
+}
+.sub{
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 10px;
+
+
+}
