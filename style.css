@@ -18,6 +18,12 @@ ul li {
     background-position: center;
     float: right;
     font-size: 20px;
+    background-image: url("images/icons8-trash-24.png");
+}
+.deleteBtn{
+
+    float: right;
+    font-size: 20px;
 }
 .header {
 
